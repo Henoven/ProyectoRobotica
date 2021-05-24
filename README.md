@@ -16,9 +16,12 @@ Tiene por objetivo ser una herramienta sencilla, eficaz y accesible para aplicar
 
 **Configuración y Ejecución:**<br />
 Para correr este script es necesario asegurarse de contar con la versión más actualizada de google colab. Después, se deben seguir los pasos descritos a continuación:<br />
-1.- 
+1.- Correr primer bloque de código de Configuración.<br />
+2.- Esperar la respuesta de éxito: "Configuración terminada".<br />
+3.- 
 
-**Ejemplo de uso:**<br />
-![image](https://user-images.githubusercontent.com/75276451/119409175-82d00600-bcac-11eb-89ff-8cde7e5f8394.png)
+**Ejemplos de uso:**<br />
+![image](https://user-images.githubusercontent.com/75276451/119409175-82d00600-bcac-11eb-89ff-8cde7e5f8394.png)<br />
+![image](https://user-images.githubusercontent.com/75276451/119409410-e35f4300-bcac-11eb-881b-eb8fdb144150.png)
 
 asegurarse que esta en la versión más actualizada de google colab  - Correr el primer bloque de código de Configuración  - Cuando se corra la configuración obtendra la respuesta de exito "Configuración terminada"  - El proyecto está listo para usarse   ## Ejecución ##  - Para ejecutar el programa solo cambie el path de la imagen en la variable "pathToImage"  - Corra el bloque de código
