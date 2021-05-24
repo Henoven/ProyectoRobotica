@@ -1,4 +1,4 @@
-## DEPIXELIZER
+# DEPIXELIZER
 
 **Proyecto Creado por:**<br />
 Luis Daniel Guerra Rosales y José Eduardo Castillo Vera<br />
@@ -17,11 +17,11 @@ Tiene por objetivo ser una herramienta sencilla, eficaz y accesible para aplicar
 
 ##  Configuración y Ejecución:
 Para correr este script es necesario asegurarse de contar con la versión más actualizada de google colab. Después, se deben seguir los pasos descritos a continuación:<br />
-  1.- Correr primer bloque de código de Configuración.<br />
-  2.- Esperar la respuesta de éxito: "Configuración terminada".<br />
-  3.- Cambiar path de la imagen en la variable "pathToImage".<br />
-  4.- Correr el último bloque de código.<br />
-  5. ¡Listo! La imagen ha sido mejorada.<br />
+1. Correr primer bloque de código de Configuración.<br />
+2. Esperar la respuesta de éxito: "Configuración terminada".<br />
+3. Cambiar path de la imagen en la variable "pathToImage".<br />
+4. Correr el último bloque de código.<br />
+5. ¡Listo! La imagen ha sido mejorada.<br />
 
 ##  Ejemplos de uso:
 
