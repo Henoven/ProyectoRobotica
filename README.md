@@ -30,4 +30,4 @@ También puedes usar el path directo de una imagen de internet, por ejemplo:
 
 ##  Ejemplos de uso:
 
-![image](https://user-images.githubusercontent.com/75276451/119412054-f1af5e00-bcb0-11eb-85ad-32d598d0084d.png) ![image](https://user-images.githubusercontent.com/75276451/119409410-e35f4300-bcac-11eb-881b-eb8fdb144150.png) ![image](https://user-images.githubusercontent.com/75276451/119409715-5b2d6d80-bcad-11eb-85e1-867777e86a81.png)<br /><br />
+![image](https://user-images.githubusercontent.com/75276451/119412306-4bb02380-bcb1-11eb-8afc-256392eb024e.png) ![image](https://user-images.githubusercontent.com/75276451/119409410-e35f4300-bcac-11eb-881b-eb8fdb144150.png) ![image](https://user-images.githubusercontent.com/75276451/119412452-84e89380-bcb1-11eb-8215-6f6bc62176e9.png)
