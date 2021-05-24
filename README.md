@@ -23,6 +23,11 @@ Para correr este script es necesario asegurarse de contar con la versión más a
 4. Correr el último bloque de código.<br />
 5. ¡Listo! La imagen ha sido mejorada.<br />
 
+También puedes usar el path directo de una imagen de internet, por ejemplo:
+* https://i.pinimg.com/170x/38/cc/40/38cc401fd7675795c50fc17361ac4d69.jpg
+* https://www.laneros.com/attachments/cmvbmvcbm-jpg.91526/
+* https://www.laneros.com/attachments/cx-jpg.91527/
+
 ##  Ejemplos de uso:
 
 ![image](https://user-images.githubusercontent.com/75276451/119409175-82d00600-bcac-11eb-89ff-8cde7e5f8394.png)<br />
