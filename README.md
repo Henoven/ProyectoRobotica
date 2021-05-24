@@ -1,4 +1,7 @@
-Depixelizer es un software que permite mejorar la resolución de una imagen pixeleada.
+Depixelizer es un software que permite obtener una imagen de mayor resolución a partir de una imagen poco pixeleada, permitiendole al usuario observar más detalles con mayor claridad. <br /> <br />
+Tiene por objetivo ser una herramienta sencilla, eficaz y accesible para aplicarla en situaciones como la mejora de imágenes de placas de automóviles o la mejora de detalles de una fotografía tomada con poca resolución.
+
+
 
 **Alumnos:** Luis Daniel Guerra Rosales y José Eduardo Castillo Vera
 
