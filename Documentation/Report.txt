@@ -1,3 +1,2 @@
-Depixelizer permite obtener una imagen de mayor resolución a partir de una imagen poco pixeleada, permitiendole 
-al usuario observar más detalles con mayor claridad. Tiene por objetivo ser una herramienta sencilla, eficaz y accesible para aplicarla en situaciones como mejora de imágenes de placas de automóviles, mejora de detalles de una fotografía tomada con poca resolución, y muchos otros más.
+Depixelizer permite obtener una imagen de mayor resolución a partir de una imagen poco pixeleada, permitiendole al usuario observar más detalles con mayor claridad. Tiene por objetivo ser una herramienta sencilla, eficaz y accesible para aplicarla en situaciones como mejora de imágenes de placas de automóviles, mejora de detalles de una fotografía tomada con poca resolución, y muchos otros más.
 
